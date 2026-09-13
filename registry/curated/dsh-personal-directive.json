@@ -1,0 +1,17 @@
+{
+  "id": "dsh-personal-directive",
+  "name": "Personal Directive",
+  "type": "bundle",
+  "repo": "PerryLink/dsh-personal-directive",
+  "spec": "dsh-personal-directive",
+  "description": "Personal directive plugin with a live top-bar enable/disable switch (framework edition with a neutral placeholder directive).",
+  "tags": [
+    "dsh-personal-directive"
+  ],
+  "category": "agent",
+  "license": "MIT",
+  "author": {
+    "name": "PerryLink",
+    "url": "https://github.com/PerryLink"
+  }
+}

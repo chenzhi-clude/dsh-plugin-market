@@ -1,0 +1,17 @@
+{
+  "id": "dsh-reach",
+  "name": "Reach",
+  "type": "bundle",
+  "repo": "PerryLink/dsh-reach",
+  "spec": "dsh-reach",
+  "description": "Mirror approval/question cards to IM chat (WeChat iLink, Telegram, Feishu) with stable #token ids and answer from chat.",
+  "tags": [
+    "dsh-reach"
+  ],
+  "category": "comm",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "PerryLink",
+    "url": "https://github.com/PerryLink"
+  }
+}

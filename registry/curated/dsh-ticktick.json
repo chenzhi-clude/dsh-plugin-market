@@ -1,0 +1,17 @@
+{
+  "id": "dsh-ticktick",
+  "name": "TickTick",
+  "type": "bundle",
+  "repo": "PerryLink/dsh-ticktick",
+  "spec": "@perrylink/dsh-ticktick",
+  "description": "TickTick (Dida365) task bridge: a session-header task panel and eleven curated ticktick_* tools over the official TickTick MCP endpoint.",
+  "tags": [
+    "dsh-ticktick"
+  ],
+  "category": "tools",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "PerryLink",
+    "url": "https://github.com/PerryLink"
+  }
+}

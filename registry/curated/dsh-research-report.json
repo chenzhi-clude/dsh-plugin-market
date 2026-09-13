@@ -1,0 +1,17 @@
+{
+  "id": "dsh-research-report",
+  "name": "Research Report",
+  "type": "bundle",
+  "repo": "PerryLink/dsh-research-report",
+  "spec": "dsh-research-report",
+  "description": "Evidence-linked research reports whose content hash seals the directory of sources.",
+  "tags": [
+    "dsh-research-report"
+  ],
+  "category": "tools",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "PerryLink",
+    "url": "https://github.com/PerryLink"
+  }
+}

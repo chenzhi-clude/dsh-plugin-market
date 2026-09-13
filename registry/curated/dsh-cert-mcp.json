@@ -1,0 +1,17 @@
+{
+  "id": "dsh-cert-mcp",
+  "name": "Certification MCP",
+  "type": "bundle",
+  "repo": "PerryLink/dsh-cert-mcp",
+  "spec": "@perrylink/dsh-cert-mcp",
+  "description": "Read-only MCP server exposing certification grades, snapshots, and five-dimension evidence for DSH plugins.",
+  "tags": [
+    "dsh-cert-mcp"
+  ],
+  "category": "dev",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "PerryLink",
+    "url": "https://github.com/PerryLink"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "dsh-autotier",
+  "name": "Autotier",
+  "type": "bundle",
+  "repo": "PerryLink/dsh-autotier",
+  "spec": "dsh-autotier",
+  "description": "Automatic strong/cheap model-tier routing with intent-gated landing, plan-mode handoff, high-risk guards, and failure escalation.",
+  "tags": [
+    "dsh-autotier"
+  ],
+  "category": "agent",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "PerryLink",
+    "url": "https://github.com/PerryLink"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "dsh-team-rooms",
+  "name": "Team Rooms",
+  "type": "bundle",
+  "repo": "PerryLink/dsh-team-rooms",
+  "spec": "dsh-team-rooms",
+  "description": "Connect independent sessions and provider-backed AI members in persistent team rooms.",
+  "tags": [
+    "dsh-team-rooms"
+  ],
+  "category": "comm",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "PerryLink",
+    "url": "https://github.com/PerryLink"
+  }
+}

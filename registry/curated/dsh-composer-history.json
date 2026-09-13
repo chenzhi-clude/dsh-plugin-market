@@ -1,0 +1,17 @@
+{
+  "id": "dsh-composer-history",
+  "name": "Composer History",
+  "type": "bundle",
+  "repo": "PerryLink/dsh-composer-history",
+  "spec": "dsh-composer-history",
+  "description": "Terminal-style input history for the DeepSeek Harness web composer: draft/caret restore, Ctrl+R reverse search, workspace recall, and compaction awareness.",
+  "tags": [
+    "dsh-composer-history"
+  ],
+  "category": "session",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "PerryLink",
+    "url": "https://github.com/PerryLink"
+  }
+}

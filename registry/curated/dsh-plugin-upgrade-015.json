@@ -1,0 +1,17 @@
+{
+  "id": "dsh-plugin-upgrade-015",
+  "name": "Plugin Upgrade 0.1.5",
+  "type": "bundle",
+  "repo": "PerryLink/dsh-plugin-upgrade-015",
+  "spec": "dsh-plugin-upgrade-015",
+  "description": "Version-locked upgrade skill for the 0.1.5-alpha.1 -> 0.1.5-rc.1 corridor with an 11-seam scanner CLI.",
+  "tags": [
+    "dsh-plugin-upgrade"
+  ],
+  "category": "dev",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "PerryLink",
+    "url": "https://github.com/PerryLink"
+  }
+}

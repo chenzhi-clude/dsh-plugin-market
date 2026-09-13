@@ -1,0 +1,17 @@
+{
+  "id": "dsh-plugin-doctor",
+  "name": "Plugin Doctor",
+  "type": "bundle",
+  "repo": "PerryLink/dsh-plugin-doctor",
+  "spec": "@perrylink/dsh-plugin-doctor",
+  "description": "Plugin doctor CLI for DSH profiles: inspect, fix, and audit installed plugins.",
+  "tags": [
+    "dsh-plugin-doctor"
+  ],
+  "category": "dev",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "PerryLink",
+    "url": "https://github.com/PerryLink"
+  }
+}

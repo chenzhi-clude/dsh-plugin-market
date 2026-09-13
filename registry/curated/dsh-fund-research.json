@@ -1,0 +1,17 @@
+{
+  "id": "dsh-fund-research",
+  "name": "Fund Research",
+  "type": "bundle",
+  "repo": "PerryLink/dsh-fund-research",
+  "spec": "dsh-fund-research",
+  "description": "Analyze funds with returns, holdings, and performance decomposition.",
+  "tags": [
+    "dsh-fund-research"
+  ],
+  "category": "tools",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "PerryLink",
+    "url": "https://github.com/PerryLink"
+  }
+}

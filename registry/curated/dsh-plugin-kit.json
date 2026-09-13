@@ -1,0 +1,17 @@
+{
+  "id": "dsh-plugin-kit",
+  "name": "Plugin Kit",
+  "type": "bundle",
+  "repo": "PerryLink/dsh-plugin-kit",
+  "spec": "@perrylink/dsh-plugin-kit",
+  "description": "Plugin engineering kit: scaffolding, ecosystem registry, and peer-range sync/validation tooling.",
+  "tags": [
+    "dsh-plugin-kit"
+  ],
+  "category": "dev",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "PerryLink",
+    "url": "https://github.com/PerryLink"
+  }
+}
